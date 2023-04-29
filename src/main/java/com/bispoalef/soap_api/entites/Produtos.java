@@ -10,12 +10,13 @@ import java.io.Serializable;
 @Getter
 @AllArgsConstructor
 @EqualsAndHashCode
-public class Departamento implements Serializable {
+public class Produtos implements Serializable {
 
     @Serial
-    private static final long serialVersionUID = 6864343073747511496L;
+    private static final long serialVersionUID = 8517435759757836259L;
 
     private Long id;
     private String nome;
-
+    private Double preco;
+    private Departamento departamento;
 }
