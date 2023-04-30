@@ -60,4 +60,4 @@ mvn test
 
 ## Autor
 
-[Alef](https://github.com/bispoalef).
+[Alef](https://www.linkedin.com/in/alef-bispo/)
