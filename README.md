@@ -58,6 +58,10 @@ mvn test
 - [JUnit](https://junit.org/junit5/)
 - [Postman](https://www.postman.com/)
 
+## Teste de requisição Postman
+![image](https://user-images.githubusercontent.com/111475913/236361401-fd931479-ca73-42af-8f67-7bad90a887a7.png)
+
+
 ## Autor
 
 [Alef](https://www.linkedin.com/in/alef-bispo/)
