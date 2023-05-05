@@ -22,7 +22,7 @@ public class ProdutoController {
         Departamento tech = new Departamento(1L, "Tech");
         Departamento pet = new Departamento(2L, "Pet");
 
-        Produtos p1 = new Produtos(1L, "Macbook Pro", 4000.0, tech);
+        Produtos p1 = new Produtos(1L, "Macbook Pro ", 4000.0, tech);
         Produtos p2 = new Produtos(2L, "PC Gamer", 5000.0, tech);
         Produtos p3 = new Produtos(2L, "Pet House", 300.0, pet);
 
